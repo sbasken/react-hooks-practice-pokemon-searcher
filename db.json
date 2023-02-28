@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Koko",
+      "hp": 100,
+      "sprites": {
+        "front": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRtLoZPVbPHgmBT9Jk_G67lXonfUl20-1aXA&usqp=CAU",
+        "back": "https://www.shutterstock.com/image-photo/portrait-sitting-siberian-husky-dog-260nw-1038088975.jpg"
+      },
+      "id": 151
     }
   ]
 }
